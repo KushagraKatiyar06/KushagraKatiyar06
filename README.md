@@ -5,24 +5,12 @@ I specialize in Full Stack development with experience in Product Management and
 
 ---
 
-### Featured Projects
-
-* **KeyFrame**: Lead Developer for an AI-powered slide-show generation platform using Redis, PostgreSQL, and AWS.
-* **English2Success**: Developed a full-stack automation dashboard for 450+ global users using Flask and OpenAI.
-* **Kitchennaire**: AI Cooking Assistant featuring hands-free video controls using TensorFlow and Mediapipe.
-* **SteamSearch**: A Game Recommendation Engine built with C++, Crow, and AWS.
-
 ### Tech Stack
 
 * **Languages**: Python, C++, JavaScript, HTML, CSS
 * **Frameworks**: React, Next.js, Node.js, Flask, PostgreSQL
 * **DevOps**: Docker, AWS, Google Cloud Platform, 
 * **Design**: Figma, ShadCN, Canva.
-
-### GitHub 
-
-![Stats]([https://github-readme-stats.vercel.app/api?username=KushagraKatiyar06&show_icons=true&theme=dark&bg_color=0D1117&text_color=48bcff&title_color=ff9361](https://github-readme-stats.vercel.app/api?username=KushagraKatiyar06&show_icons=true&title_color=48bcff&icon_color=ff9361&text_color=ffffff&bg_color=0d1117))
-![Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraKatiyar06&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&title_color=ffd166](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraKatiyar06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats))
 
 ### Hobbies
 * **Content Creator**: I post flute videos on TikTok and Instagram, accumulating over 500,000 views.
