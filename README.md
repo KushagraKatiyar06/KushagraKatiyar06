@@ -21,8 +21,8 @@ I specialize in Full Stack development with experience in Product Management and
 
 ### GitHub 
 
-![Kushagra's Stats](https://github-readme-stats.vercel.app/api?username=KushagraKatiyar06&show_icons=true&theme=dark&bg_color=0D1117&text_color=48bcff&title_color=ff9361)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraKatiyar06&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&title_color=ffd166)
+![Stats]([https://github-readme-stats.vercel.app/api?username=KushagraKatiyar06&show_icons=true&theme=dark&bg_color=0D1117&text_color=48bcff&title_color=ff9361](https://github-readme-stats.vercel.app/api?username=KushagraKatiyar06&show_icons=true&title_color=48bcff&icon_color=ff9361&text_color=ffffff&bg_color=0d1117))
+![Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraKatiyar06&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&title_color=ffd166](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraKatiyar06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats))
 
 ### Hobbies
 * **Content Creator**: I post flute videos on TikTok and Instagram, accumulating over 500,000 views.
