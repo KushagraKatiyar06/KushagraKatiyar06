@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra Katiyar 👋
 
-### Full Stack Developer | CS @ University of Florida 
+### Full Stack | CS @ University of Florida 
 I specialize in Full Stack development with experience in Product Management and UI/UX Design. I build real-world applications and lead technical teams on campus.
 
 ---
@@ -17,4 +17,4 @@ I specialize in Full Stack development with experience in Product Management and
 * **Hobbies**: Gaming, cars, and Taekwondo.
 
 ### Connect with me:
-[Portfolio](https://kushagrakatiyar06.github.io/Portfolio-v1/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
+[LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
