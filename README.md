@@ -17,4 +17,4 @@ I specialize in Full Stack development with experience in Product Management and
 * **Hobbies**: Gaming, cars, and Taekwondo.
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
+[Portfolio](https://kushagrakatiyar06.github.io/Portfolio-v1/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
