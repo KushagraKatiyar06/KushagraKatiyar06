@@ -1,7 +1,7 @@
 # Hi, I'm Kushagra Katiyar 👋
 
 ### Full Stack | CS @ University of Florida 
-I specialize in Full Stack development with experience in Product Management and UI/UX Design. I build real-world applications and lead technical teams on campus.
+I specialize in Generative AI, Full Stack development with experience in Product Management and UI/UX Design. 
 
 ---
 
