@@ -17,4 +17,4 @@ I specialize in Generative AI, Full Stack development with experience in Product
 * **Hobbies**: Gaming, cars, and Taekwondo.
 
 ### Connect with me:
-[Portfolio](https://kushagrakatiyar06.github.io/Portfolio-v1/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
+[Portfolio](https://kushagrakatiyar06.github.io/Portfolio-v2/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
