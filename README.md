@@ -5,7 +5,7 @@ I specialize in AI/LLM Engineering (RAG, agentic pipelines, multimodal systems) 
 ---
 ### Tech Stack
 * **Languages**: Python, TypeScript/JavaScript, C++, Kotlin, HTML/CSS
-* **AI/LLM**: OpenAI, RAG, Agentic Pipelines, Multimodal (vision) Integration
+* **AI/LLM**: RAG, Agentic Pipelines, Multimodal (vision) Integration
 * **Frameworks**: React, Next.js, FastAPI, Node.js, Flask
 * **Databases**: PostgreSQL, Azure AI Search, Redis
 * **Cloud/DevOps**: AWS, Google Cloud Platform, Azure, Cloudflare (Workers/R2/Vectorize), Docker
