@@ -1,20 +1,19 @@
 # Hi, I'm Kushagra Katiyar 👋
-
-### Full Stack | CS @ University of Florida 
-I specialize in Generative AI, Full Stack development with experience in Product Management and UI/UX Design. 
+### Full Stack | AI Engineering | CS @ University of Florida
+I specialize in AI/LLM Engineering (RAG, agentic pipelines, multimodal systems) and Full Stack development, with experience in Product Management and UI/UX Design.
 
 ---
-
 ### Tech Stack
-
-* **Languages**: Python, C++, JavaScript, HTML, CSS
-* **Frameworks**: React, Next.js, Node.js, Flask, PostgreSQL
-* **DevOps**: Docker, AWS, Google Cloud Platform, 
-* **Design**: Figma, ShadCN, Canva.
+* **Languages**: Python, TypeScript/JavaScript, C++, Kotlin, HTML/CSS
+* **AI/LLM**: OpenAI, RAG, Agentic Pipelines, Multimodal (vision) Integration
+* **Frameworks**: React, Next.js, FastAPI, Node.js, Flask
+* **Databases**: PostgreSQL, Azure AI Search, Redis
+* **Cloud/DevOps**: AWS, Google Cloud Platform, Azure, Cloudflare (Workers/R2/Vectorize), Docker
+* **Design**: Figma, ShadCN, Canva
 
 ### Hobbies
 * **Content Creator**: I post flute videos on TikTok and Instagram, accumulating over 500,000 views.
 * **Hobbies**: Gaming, cars, and Taekwondo.
 
 ### Connect with me:
-[Portfolio](https://kushagrakatiyar06.github.io/Portfolio-v2/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
+[Portfolio](https://kushagrakatiyar06.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/kushagrakatiyar/) | [Instagram](https://www.instagram.com/just_kushagra/)
